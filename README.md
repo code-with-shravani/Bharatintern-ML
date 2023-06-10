@@ -1,2 +1,2 @@
-# Bharatintern-AI
-Artificial Intelligence Internship 
+# Bharatintern-ML
+Machine Learning Internship 
